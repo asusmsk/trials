@@ -1,7 +1,14 @@
+### Context
+A trial task was sent after a technical interview had been passed.
+
+No preliminary preparation or domain details were provided.
+
+Time limit: 3 hours.
+
 ### Input files
 **Business Analyst-Task_Description.pdf**
 
-**/Task files**: source files for Excel analysis
+**/Task files/\***: source files for Excel analysis
 
 **SQL_Queries.pdf**: task for SQL query
 
